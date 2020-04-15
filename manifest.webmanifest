@@ -9,8 +9,7 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": "/?source=pwa",
-  	"scope": "http://schuelerzeitung.gss-tutor.de/",
+    "start_url": "http://schuelerzeitung.gss-tutor.de/",
     "background_color": "#FFFFFF",
     "display": "standalone",
     "theme_color": "#FF8000"
